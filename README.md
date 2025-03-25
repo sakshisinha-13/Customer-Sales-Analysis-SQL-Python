@@ -1,8 +1,8 @@
-# 🍽️ Customer Sales Analysis Using SQL & Python
+# Customer Sales Analysis Using SQL & Python
 
 This project analyzes customer behavior and sales performance for a fictional restaurant using SQL Server and Python. It demonstrates SQL querying, business logic, and data visualization for actionable insights.
 
-## 📊 Key Objectives
+## Key Objectives
 
 - Total spending by each customer
 - Customer visit frequency
@@ -10,18 +10,18 @@ This project analyzes customer behavior and sales performance for a fictional re
 - Impact of membership on purchasing behavior
 - Loyalty point system analysis
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 - Python (Pandas, Seaborn, Matplotlib)
 - SQL Server (via pyodbc)
 - Jupyter Notebook
 - SQL (JOINs, Aggregations, CTEs, Window Functions)
 
-## 📈 Visuals
+## Visuals
 
 Includes bar charts, pie charts, and line plots to illustrate customer behavior, purchase patterns, and loyalty analytics.
 
-## 🔍 Insights
+## Insights
 
 - Identified most popular items
 - Tracked purchases before and after loyalty membership
